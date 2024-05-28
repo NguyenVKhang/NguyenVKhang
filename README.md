@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nguyenvankhang.nguyenvankhang" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nguyễn+Văn+Khang!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+GitHub!+👋;+I'm+Nguyễn+Văn+Khang!;" />
 </h1>
 
 <h3 align="center">A student at VNU University of Engineering and Technology 🇻🇳</h3>
@@ -32,9 +32,9 @@
 
  <hr/>
 <h2 align="center">My Projects</h2>
-<a href="https://github.com/NguyenVKhang/ProjectCNPM/">
+<a href="https://github.com/NguyenVKhang/TicketBooking/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVKhang&repo=ProjectCNPM&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVKhang&repo=TicketBooking&theme=radical" />
 </a>    
 
 <a href="https://github.com/NguyenVKhang/RoboconChallenge/">
@@ -42,14 +42,14 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVKhang&repo=RoboconChallenge&theme=merko" />
 </a>    
 
-<a href="https://github.com/NguyenVKhang/BTL_OOAD/">
+<a href="https://github.com/NguyenVKhang/Auction/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVKhang&repo=BTL_OOAD&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVKhang&repo=Auction&theme=gruvbox" />
 </a>    
 
-<a href="https://github.com/NguyenVKhang/BTLDevWeb/">
+<a href="https://github.com/NguyenVKhang/CODE/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVKhang&repo=BTLDevWeb&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVKhang&repo=CODE&theme=dark" />
 </a>    
 
 <a href="https://github.com/NguyenVKhang/UI/">
@@ -61,6 +61,16 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVKhang&repo=mae&theme=cobalt" />
 </a>    
+
+<a href="https://github.com/NguyenVKhang/Sokoban/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVKhang&repo=Sokoban&theme=cobalt" />
+</a> 
+
+<a href="https://github.com/NguyenVKhang/Bomberman/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVKhang&repo=Bomberman&theme=cobalt" />
+</a> 
 
  <hr/>
  
