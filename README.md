@@ -32,6 +32,17 @@
 
  <hr/>
 <h2 align="center">My Projects</h2>
+
+<a href="https://github.com/NguyenVKhang/BiGRec/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVKhang&repo=BiGRec&theme=cobalt" />
+</a>    
+
+<a href="https://github.com/NguyenVKhang/ComparativeOpinionMining/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVKhang&repo=ComparativeOpinionMining&theme=synthwave" />
+</a>    
+
 <a href="https://github.com/NguyenVKhang/TicketBooking/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVKhang&repo=TicketBooking&theme=radical" />
@@ -57,19 +68,14 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVKhang&repo=UI&theme=onedark" />
 </a>    
 
-<a href="https://github.com/NguyenVKhang/mae/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVKhang&repo=mae&theme=cobalt" />
-</a>    
-
 <a href="https://github.com/NguyenVKhang/Sokoban/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVKhang&repo=Sokoban&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVKhang&repo=Sokoban&theme=highcontrast" />
 </a> 
 
 <a href="https://github.com/NguyenVKhang/Bomberman/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVKhang&repo=Bomberman&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVKhang&repo=Bomberman&theme=dracula" />
 </a> 
 
  <hr/>
