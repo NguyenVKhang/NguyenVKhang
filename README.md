@@ -12,32 +12,62 @@
  
  🔭 I’m currently working on **my university projects**
  
- 🌱 I’m currently learning **Python, Machine Learning, AI**
+ 🌱 I’m currently learning **Python, Machine Learning, Deep Learning, BackEnd**
 
 💬 Ask me about **Java, Python, Data Science... or anything [here](https://github.com/nguyenvankhang/nguyenvankhang/issues)**
-
-⚡ Fun fact **I love reading about space and astrophysics**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:nguyenvankhang@example.com">
+  <a href="mailto:21020768@vnu.edu.vn">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/nguyenvankhang" target="_blank">
+  <a href="https://linkedin.com/in/nguyen-van-khang-b28493310" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://nguyenvankhang.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://facebook.com/your-facebook-username" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
   </a>
 </div>
+
+ <hr/>
+<h2 align="center">My Projects</h2>
+<a href="https://github.com/NguyenVKhang/ProjectCNPM/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVKhang&repo=ProjectCNPM&theme=radical" />
+</a>    
+
+<a href="https://github.com/NguyenVKhang/RoboconChallenge/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVKhang&repo=RoboconChallenge&theme=merko" />
+</a>    
+
+<a href="https://github.com/NguyenVKhang/BTL_OOAD/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVKhang&repo=BTL_OOAD&theme=gruvbox" />
+</a>    
+
+<a href="https://github.com/NguyenVKhang/BTLDevWeb/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVKhang&repo=BTLDevWeb&theme=dark" />
+</a>    
+
+<a href="https://github.com/NguyenVKhang/UI/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVKhang&repo=UI&theme=onedark" />
+</a>    
+
+<a href="https://github.com/NguyenVKhang/mae/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVKhang&repo=mae&theme=cobalt" />
+</a>    
 
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,mysql,git,github,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,angular,nextjs,nodejs,mysql,git,github,vscode,pytorch,tensorflow" />
 </div>
 
 <br/>
@@ -46,8 +76,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nguyenvankhang/nguyenvankhang/output/github-contribution-grid-snake.svg" />
-  
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NguyenVKhang/NguyenVKhang/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
@@ -56,20 +85,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nguyenvankhang&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=nguyenvankhang&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=NguyenVKhang&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=NguyenVKhang&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nguyenvankhang&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=NguyenVKhang&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
